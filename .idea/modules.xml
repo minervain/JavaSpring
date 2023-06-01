@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaExamp.iml" filepath="$PROJECT_DIR$/.idea/JavaExamp.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KullaniciGiris/KullaniciGiris.iml" filepath="$PROJECT_DIR$/KullaniciGiris/KullaniciGiris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" filepath="$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" filepath="$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleEndeksi/VucutKitleEndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleEndeksi/VucutKitleEndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZodyakHesaplama/ZodyakHesaplama.iml" filepath="$PROJECT_DIR$/ZodyakHesaplama/ZodyakHesaplama.iml" />
     </modules>
   </component>
 </project>
