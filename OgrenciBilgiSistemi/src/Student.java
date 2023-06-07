@@ -4,11 +4,16 @@ public class Student {
     Course mat;
     Course fizik;
     Course kimya;
+    Course sFizik;
+    Course sMat;
+    Course sKimya;
     double avarage;
     boolean isPass;
 
 
-    Student(String name, int classes, String stuNo, Course mat,Course fizik,Course kimya) {
+
+
+    Student(String name, int classes, String stuNo, Course mat,Course fizik,Course kimya,Course sFizik,Course sKimya,Course sMat) {
         this.name = name;
         this.classes = classes;
         this.stuNo = stuNo;
@@ -17,11 +22,44 @@ public class Student {
         this.kimya = kimya;
         calcAvarage();
         this.isPass = false;
+        this.sFizik=sFizik;
+        this.sKimya=sKimya;
+        this.sMat=sMat;
 
     }
 
 
     public void addBulkExamNote(int mat, int fizik, int kimya) {
+
+        if (mat >= 0 && mat <= 100) {
+            this.mat.note = mat;
+        }
+
+        if (fizik >= 0 && fizik <= 100) {
+            this.fizik.note = fizik;
+        }
+
+        if (kimya >= 0 && kimya <= 100) {
+            this.kimya.note = kimya;
+        }
+
+    }
+    public void sNOTE(int sFiz, int sKim, int smat) {
+
+        if (sFiz >= 0 && sFiz <= 100) {
+            this.sFizik.sozluNotu = sFiz;
+        }
+
+        if (sKim >= 0 && sKim <= 100) {
+            this.kimya.sozluNotu = sKim;
+        }
+
+        if (smat >= 0 && smat <= 100) {
+            this.mat.sozluNotu = smat;
+        }
+
+    }
+    public void addBulkExamSOZLUNote(int mat, int fizik, int kimya) {
 
         if (mat >= 0 && mat <= 100) {
             this.mat.note = mat;

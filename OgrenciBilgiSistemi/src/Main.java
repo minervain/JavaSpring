@@ -13,17 +13,22 @@ public class Main {
         fizik.addTeacher(t2);
         kimya.addTeacher(t3);
 
-        Student s1 = new Student("İnek Şaban", 4, "140144015", mat, fizik, kimya);
+        Student s1 = new Student("İnek Şaban", 4, "140144015", mat, fizik, kimya,sFizik,sKimya,sMat);
         s1.addBulkExamNote(50,20,40);
+        s1.sNOTE(40,50,60);
         s1.isPass();
 
-        Student s2 = new Student("Güdük Necmi", 4, "2211133", mat, fizik, kimya);
+        Student s2 = new Student("Güdük Necmi", 4, "2211133", mat, fizik, kimya,sFizik,sKimya,sMat);
         s2.addBulkExamNote(100,50,40);
+        s2.sNOTE(40,50,60);
         s2.isPass();
 
-        Student s3 = new Student("Hayta İsmail", 4, "221121312", mat, fizik, kimya);
+        Student s3 = new Student("Hayta İsmail", 4, "221121312", mat, fizik, kimya,sFizik,sKimya,sMat);
         s3.addBulkExamNote(50,20,40);
+        s3.sNOTE(40,50,60);
         s3.isPass();
+
+
 
     }
 }
