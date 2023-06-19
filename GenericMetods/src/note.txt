@@ -1,0 +1,7 @@
+Generic metot, <T> ifadesiyle parametre alır. Bu, metotun genel olarak hangi türdeki verilerle çalışacağını belirtir. Metotun içindeki T ifadesi, belirtilen veri türünü temsil eder.
+
+printArray metodu, foreach döngüsüyle dizideki her elemana erişir ve ekrana yazdırır.
+
+main metodunda, printArray metoduna farklı veri türlerindeki diziler geçirilerek çağrılır. İlk olarak intArray dizisi, ardından doubleArray dizisi ve en son stringArray dizisi ekrana yazdırılır.
+
+Bu örnekte generic metot, farklı veri tipleriyle çalışabilir ve tip güvenliğini sağlar. Böylece, aynı metotu farklı veri tipleriyle kullanabilirsiniz.
