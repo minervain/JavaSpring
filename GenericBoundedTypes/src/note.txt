@@ -1,0 +1,9 @@
+Bu örnekte, BoundedTypeExample adında bir generic sınıf tanımladık ve tür parametresini Number sınıfından türetilen türlerle sınırladık.
+
+Sınıf içinde, value adında bir değişken tanımladık ve bu değişkenin türü, Number sınıfından türetilen türlerle sınırlıdır.
+
+Sınıfın square metodu, value değişkeninin karesini hesaplar. doubleValue metodu sayesinde, Number sınıfının alt sınıflarında (örneğin Integer veya Double) bulunan değeri double türüne dönüştürürüz.
+
+Main sınıfında, BoundedTypeExample sınıfını Integer ve Double türleri için kullanarak örnekler oluştururuz. Ardından, square metodu kullanılarak karelerini hesaplarız ve sonuçları ekrana yazdırırız.
+
+Bu basit örnekte, bounded types kullanarak bir generic sınıf oluşturduk. Bu sayede, BoundedTypeExample sınıfını sadece Number sınıfından türetilen türlerle kullanabiliriz.
