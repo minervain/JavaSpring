@@ -1,11 +1,19 @@
 package com.qqq.qqq.service;
 
+import com.qqq.qqq.model.Users;
 
-import org.springframework.stereotype.Service;
+import java.util.List;
 
-@Service
-public class UserService {
-    public String getUserMessage() {
-        return "Hello from UserService!";
-    }
+public interface UserService {
+    String getUserMessage();
+
+    List<Users> getAllUsers();
+
+    Users getUserById(Long id);
+
+    Users createUser(Users user);
+
+    Users updateUser(Long id, Users user);
+
+    void deleteUser(Long id);
 }
