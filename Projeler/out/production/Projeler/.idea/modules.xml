@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayArrangement/ArrayArrangement.iml" filepath="$PROJECT_DIR$/ArrayArrangement/ArrayArrangement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsalSayi/AsalSayi.iml" filepath="$PROJECT_DIR$/AsalSayi/AsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookWrapper/BookWrapper.iml" filepath="$PROJECT_DIR$/BookWrapper/BookWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeFactory/EmployeeFactory.iml" filepath="$PROJECT_DIR$/EmployeeFactory/EmployeeFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FixtureGenerator/FixtureGenerator.iml" filepath="$PROJECT_DIR$/FixtureGenerator/FixtureGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericBoundedTypes/GenericBoundedTypes.iml" filepath="$PROJECT_DIR$/GenericBoundedTypes/GenericBoundedTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericClass/GenericClass.iml" filepath="$PROJECT_DIR$/GenericClass/GenericClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericInterface/GenericInterface.iml" filepath="$PROJECT_DIR$/GenericInterface/GenericInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericMetods/GenericMetods.iml" filepath="$PROJECT_DIR$/GenericMetods/GenericMetods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceOrnek/InterfaceOrnek.iml" filepath="$PROJECT_DIR$/InterfaceOrnek/InterfaceOrnek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java5CikarmaRecursive/Java5CikarmaRecursive.iml" filepath="$PROJECT_DIR$/Java5CikarmaRecursive/Java5CikarmaRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeList/MeList.iml" filepath="$PROJECT_DIR$/MeList/MeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" filepath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedInner/NestedInner.iml" filepath="$PROJECT_DIR$/NestedInner/NestedInner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" filepath="$PROJECT_DIR$/NotHesaplama/NotHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projeler.iml" filepath="$PROJECT_DIR$/.idea/Projeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecurisiveAsal/RecurisiveAsal.iml" filepath="$PROJECT_DIR$/RecurisiveAsal/RecurisiveAsal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TekSayiInput/TekSayiInput.iml" filepath="$PROJECT_DIR$/TekSayiInput/TekSayiInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TranspozMatris/TranspozMatris.iml" filepath="$PROJECT_DIR$/TranspozMatris/TranspozMatris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" filepath="$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsAlanProgramRecursive/UsAlanProgramRecursive.iml" filepath="$PROJECT_DIR$/UsAlanProgramRecursive/UsAlanProgramRecursive.iml" />
+    </modules>
+  </component>
+</project>
